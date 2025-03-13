@@ -11,4 +11,4 @@ materi perkuliahan software quality
 ## Penilaian 
 | Tugas | ATS | AAS | TB |
 | -------- | -------- | -------- | -------- |
-| 20% | 25% - 25% | 30% |
+| 20% | 25% | 25% | 30% |
