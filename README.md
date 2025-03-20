@@ -9,3 +9,42 @@ by Abu Sayed Mahfuz (Author)
 
 # SQA
 Matakuliah tentang Internal Audit dan IT Audit Series, akan mempelajari tentang bagaimana Pengelolaan Software Wuality Assurance, Integrating Testing, Security dan Audit
+
+ # KELOMPOK SQA
+Kelompok 1
+- Kresnanda Randyansyah
+- Haris Saefuloh
+- Irgi 
+
+Kelompok 2
+- Ariadiva
+- Alfian
+- Hammi
+
+
+Kelompok 3
+- Muhammad Qinthar
+- Mariana 
+- Nida Sakina
+
+Kelompok 4
+- Agung Deriko
+- Rayfan
+- Ghaida
+- Dzulkifli
+
+Kelompok 5
+- Ruth Diana
+- Alifathur
+- Gilang 
+- Andika
+
+Kelompok 6
+- Yoginara
+- Serli
+- Bargana
+
+Kelompok 7
+- Farel
+- Devi 
+- Aditya 
