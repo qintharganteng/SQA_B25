@@ -20,6 +20,7 @@ Kelompok 2
 - Ariadiva
 - Alfian
 - Hammi
+- Revan
 
 
 Kelompok 3
